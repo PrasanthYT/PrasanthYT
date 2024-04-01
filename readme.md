@@ -61,7 +61,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: PrasanthYT.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: jprasanth2006@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/PrasanthYT/PrasanthYT/issues)
 
 </p>
