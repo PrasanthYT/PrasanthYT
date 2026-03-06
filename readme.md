@@ -1,30 +1,80 @@
-```yaml
-👋 Hi, I'm Prasanth!
-------------------------------
-🔹 Full-Stack Developer ⚡ Cybersecurity Enthusiast  
-🔹 Building scalable systems & secure digital experiences  
-🔹 Merging design, security, & technology into powerful solutions  
-```
+<div align="center">
 
-📜 **My Story**  
-> "Code is my paint, the web is my canvas."  
-Ever since I wrote my first "Hello World," I've been on a mission to craft impactful digital experiences.  
-From designing intuitive UIs to securing applications, I believe in the **art of problem-solving through technology.**  
+# 👋 Hi, I'm Prasanth
 
-🛠 **What I Do**  
-- 🏗️ **Architecting Scalable Applications** (MERN, PostgreSQL, Redis, Kafka)  
-- 🎨 **UI/UX Enthusiast** (Figma, Tailwind, ShadCN)  
-- 🔐 **Cybersecurity Nerd** (Ethical Hacking, Secure APIs, Bug Hunting)  
-- 🎙 **Podcast Host** (Geopolitics & Enna Da Podcast)  
+### Full-Stack Developer ⚡ Cybersecurity Enthusiast
 
-🚀 **Current Missions**  
-- Crafting **GSTSync** → A smart **GST Management** & **Inventory System**  
-- Building **D-Twin** → A **Digital Twin** for **health monitoring**  
-- Exploring **advanced cyber defense strategies**  
+Building **scalable systems**, **secure digital experiences**, and **user-focused technology**
 
-🎭 **Beyond Code**  
-When I'm not debugging, you'll find me:  
-🎙 **Hosting podcasts** | 📖 **Writing on tech & society** | 🏆 **Competing in hackathons**  
+</div>
 
-📬 **Let's Connect & Build Something Awesome!**  
-[📧 Email Me](mailto:jprasanth2006@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/rjprasanth/) | 🚀 Let's innovate together!
+---
+
+## 📜 My Story
+
+> *"Code is my paint, the web is my canvas."*
+
+Ever since I wrote my first **Hello World**, I have been driven to build meaningful digital experiences.
+
+My work blends **engineering**, **design thinking**, and **cybersecurity principles** to create applications that are not only scalable but also secure and intuitive.
+
+From architecting backend systems to designing modern user interfaces, I focus on solving **real-world problems through technology.**
+
+---
+
+## 🛠 What I Do
+
+**🏗 Application Architecture**
+
+* MERN Stack
+* PostgreSQL
+* Redis
+* Kafka
+* Distributed Systems
+
+**🎨 UI / UX Design**
+
+* Figma
+* TailwindCSS
+* ShadCN UI
+* Design Systems
+
+**🔐 Cybersecurity**
+
+* Ethical Hacking
+* Secure API Design
+* Vulnerability Research
+* Bug Hunting
+
+**🎙 Knowledge Sharing**
+
+* Podcast discussions on technology and geopolitics
+* Community learning and developer education
+
+---
+
+## 🚀 Products
+
+### Stashify
+
+A modern **file storage and digital asset management platform** designed for speed, simplicity, and accessibility.
+
+🌐 http://stashify.polluxstudio.in/
+
+---
+
+## 📬 Connect With Me
+
+📧 **Email**
+[jprasanth2006@gmail.com](mailto:jprasanth2006@gmail.com)
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/rjprasanth/
+
+---
+
+<div align="center">
+
+⚡ *Building technology that is scalable, secure, and meaningful.*
+
+</div>
