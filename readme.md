@@ -8,8 +8,6 @@ Building **scalable systems**, **secure digital experiences**, and **user-focuse
 
 </div>
 
----
-
 ## 📜 My Story
 
 > *"Code is my paint, the web is my canvas."*
@@ -20,7 +18,6 @@ My work blends **engineering**, **design thinking**, and **cybersecurity princip
 
 From architecting backend systems to designing modern user interfaces, I focus on solving **real-world problems through technology.**
 
----
 
 ## 🛠 What I Do
 
@@ -55,11 +52,26 @@ From architecting backend systems to designing modern user interfaces, I focus o
 
 ## 🚀 Products
 
-### Stashify
+### <img src="https://raw.githubusercontent.com/PrasanthYT/PrasanthYT/b42c5cb570cbec9aa1f07f22c834479bb8730f0b/assets/stashify_logo.svg" width="24" align="center"> Stashify
 
-A modern **file storage and digital asset management platform** designed for speed, simplicity, and accessibility.
+Stashify is a desktop GUI that transforms `git stash` into a visual workflow. It allows developers to browse stash entries, inspect original vs modified changes using a Monaco diff editor, preview image assets, and quickly locate project folders using drive search.
 
 🌐 http://stashify.polluxstudio.in/
+
+---
+
+## 🏢 Founder
+
+### <img src="https://github.com/Pollux-Studio/.github/raw/main/profile/assets/pollux-logo-black.png" width="30" align="center"> Pollux Studio
+
+**Pollux Studio** is an open-source software collective focused on building **privacy-first, system-aware tools** that improve how people interact with their devices.
+
+The studio develops software close to the **system layer** - including input methods, diagnostics, trust tooling, and UX infrastructure, while maintaining transparency, user control, and respect for privacy.
+
+Rather than hiding complexity behind opaque automation, Pollux Studio projects aim to **explain how systems behave**, helping users understand, trust, and confidently use the platforms they rely on.
+
+Pollux Studio is **platform-agnostic** and not tied to any specific vendor or operating system.  
+Its projects are designed to support **open, user-respecting ecosystems across mobile, desktop, and embedded environments.**
 
 ---
 
